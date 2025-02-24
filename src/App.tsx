@@ -1,12 +1,7 @@
-import './App.css'
+import "./App.css";
 
 function App() {
-
-  return (
-    <div className='p-4 bg-red-50'>
-      xd
-    </div>
-  )
+  return <div className="flex bg-red-50 p-4">xd</div>;
 }
 
-export default App
+export default App;
